@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81cb5cf2.css",
+    "main.js": "/static/js/main.17880e2e.js",
+    "static/js/787.ebd7646a.chunk.js": "/static/js/787.ebd7646a.chunk.js",
+    "static/media/sofa.png": "/static/media/sofa.99d83c8c60f118adb633.png",
+    "static/media/tshirt.png": "/static/media/tshirt.9e6b761faeeb551cd06a.png",
+    "static/media/controller.svg": "/static/media/controller.851a68a77f5b1799c79a1968acc267e3.svg",
+    "index.html": "/index.html",
+    "static/media/bicycle.svg": "/static/media/bicycle.e9ea9ca9598d46f2c60ab72fd5f41be8.svg",
+    "static/media/camera.svg": "/static/media/camera.b2af296ddc064f43697372dab07a4a54.svg",
+    "static/media/smartwatch.svg": "/static/media/smartwatch.cc38c7a99b660771261e3e98d94f01e3.svg",
+    "static/media/speaker.svg": "/static/media/speaker.75eb642eae35eac80d6f11184e736d8b.svg",
+    "static/media/phone.svg": "/static/media/phone.3b280b33e14c15bb95d3726e27b9cddf.svg",
+    "static/media/laptop.svg": "/static/media/laptop.8137484446213d04ecdade8b1a3e8336.svg",
+    "static/media/headphones.svg": "/static/media/headphones.2ee9b276cf5c3f8b389fea095c92dece.svg",
+    "main.81cb5cf2.css.map": "/static/css/main.81cb5cf2.css.map",
+    "main.17880e2e.js.map": "/static/js/main.17880e2e.js.map",
+    "787.ebd7646a.chunk.js.map": "/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81cb5cf2.css",
+    "static/js/main.17880e2e.js"
+  ]
+}

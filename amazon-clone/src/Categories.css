@@ -1,0 +1,29 @@
+.slider {
+    background-color: #f1c372;
+    /* height: 500px; */
+    /* margin-top: 10%; */
+    /* padding: 10px; */
+    /* margin: 15px; */
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+
+.head {
+    padding: 1%;
+}
+
+.icon {
+    background-color: white;
+    background-size: 80px 80px;
+    background-repeat: no-repeat;
+    opacity: 1;
+    padding: 1ch;
+    margin: 1ch;
+    border-radius: 20%;
+}
+
+.items {
+    /* margin: 10px; */
+    background-color: #E9C46A;
+    /* justify-content: space-between; */
+ }

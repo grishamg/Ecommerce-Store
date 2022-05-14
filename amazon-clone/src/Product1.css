@@ -1,0 +1,17 @@
+.card.mycard {
+    max-height: 35rem;
+}
+
+.card.mycard .myimg {
+    max-height: 20rem;
+    object-fit: contain;
+    padding: 20px;
+}
+
+.card.mycard .mybtn {
+    background: #E9C46A;
+    border: 1px solid;
+    margin-top: 10px;
+    color: #111;
+    border-radius: 0.5ch;
+}

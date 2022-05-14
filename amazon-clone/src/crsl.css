@@ -1,0 +1,32 @@
+.carousel {
+	height: 350px;
+	/* background-color: #E76F51; */
+}
+
+.carousel .carousel-item {
+	height: 350px;
+}
+
+.carousel-item img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	object-fit: cover;
+}
+
+@media only screen and (max-width: 600px) {
+	.carousel {
+		height: 180px;
+	}
+
+	.carousel .carousel-item {
+		height: 200px;
+	}
+
+	.carousel-item img {
+		position: absolute;
+		top: 0;
+		left: 0;
+		object-fit: cover;
+	}
+}
