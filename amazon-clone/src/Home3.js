@@ -18,7 +18,7 @@ const FetchProducts = () =>
     const prodData = () =>
     {
 
-        axios( "https://cors-anywhere.herokuapp.com/https://young-waters-14938.herokuapp.com/api/product", {
+        axios( "https://young-waters-14938.herokuapp.com/api/product", {
             method: 'GET',
             withCredentials: false,
         } ).then( resp =>
