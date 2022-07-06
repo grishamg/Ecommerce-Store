@@ -20,7 +20,7 @@ const FetchProducts = () =>
 
         axios( "https://young-waters-14938.herokuapp.com/api/product", {
             method: 'GET',
-            withCredentials: false,
+            // withCredentials: false,
         } ).then( resp =>
         {
             console.log( resp );
