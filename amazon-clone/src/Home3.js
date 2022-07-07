@@ -17,9 +17,9 @@ const FetchProducts = () =>
     }, [] )
     const prodData = () =>
     {
-        axios.defaults.headers.post[ 'Content-Type' ] = 'application/x-www-form-urlencoded';
+        // axios.defaults.headers.post[ 'Content-Type' ] = 'application/x-www-form-urlencoded';
 
-        axios( "/https://young-waters-14938.herokuapp.com/api/product", {
+        axios( "https://young-waters-14938.herokuapp.com/api/product", {
             method: 'GET',
             withCredentials: false,
         } ).then( resp =>
